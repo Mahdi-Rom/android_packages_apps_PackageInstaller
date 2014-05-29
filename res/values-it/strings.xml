@@ -79,4 +79,12 @@
     <string name="devicePerms" msgid="6733560207731294504">"Accesso dispositivo"</string>
     <string name="no_new_perms" msgid="6657813692169565975">"Questo aggiornamento non richiede nuove autorizzazioni."</string>
     <string name="grant_confirm_question" msgid="4690289297029223742">"Vuoi concedere le autorizzazioni che seguono? Concederai l\'accesso a:"</string>
+    
+    <!-- Body text for new tab when there are no permissions [CHAR LIMIT=NONE] -->
+    <string name="no_perms">Questa app non richiede permessi.</string>
+
+    <string name="currentVersion">Versione attuale:</string>
+    <string name="newVersion">Nuova versione:</string>
+    <string name="not_available">non disponibile</string>
+     
 </resources>
