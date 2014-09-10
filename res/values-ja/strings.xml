@@ -80,7 +80,7 @@
     <string name="appVersion">バージョン情報</string>
     <string name="no_new_perms" msgid="6657813692169565975">"このアップデートでは新たな許可は必要ありません。"</string>
     <string name="grant_confirm_question" msgid="4690289297029223742">"次の権限を許可してもよろしいですか？許可すると、次にアクセスされます:"</string>
-    <string name="no_perms">このアプリは権限を必要としません.</string>
+    <string name="no_perms">このアプリは権限を必要としません</string>
     <string name="currentVersion">現在のバージョン:</string>
     <string name="newVersion">新しいバージョン:</string>
     <string name="not_available">利用できません</string>
